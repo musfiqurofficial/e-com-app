@@ -109,7 +109,3 @@ README.md
 ```
 
 ---
-
-## Submission
-
-Please submit your work by sharing the GitHub repository link for this project.
